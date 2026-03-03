@@ -40,19 +40,17 @@ AutoSphere is a production-style full-stack web application built using Flask an
 - Secure password hashing
 
 ---
+--> 🏗️ Tech Stack
 
-## 🏗️ Tech Stack
-
-**Backend**
+-->Backend
 - Python
 - Flask
 - SQLAlchemy
 - SQLite
 
-**Frontend**
+-->Frontend
 - HTML5
 - Bootstrap 5
-- Jinja2 Templates
 - JavaScript
 
 ---
@@ -67,6 +65,4 @@ User → Favorites
 
 Designed using SQLAlchemy ORM with normalized structure.
 
----
 
-## 📂 Project Structure
